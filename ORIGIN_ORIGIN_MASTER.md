@@ -13,7 +13,7 @@
 - git merge origin/master を行うと master ← origin/masterへmerge される。
 
 #### 図にするとこんな感じ。
-![top-page](https://github.com/niwakk7/my-github-tutorial/blob/master/image/origin_origin_master_1.png)
+![top-page](https://github.com/niwakk7/my-github-tutorial/blob/master/images/origin_origin_master_1.png)
 
 #### リモート追跡ブランチ (develop) を作成するには以下のコマンドを実行。
 ```
